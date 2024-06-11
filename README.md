@@ -1,12 +1,7 @@
-clean-protfolio
-Project setup
-yarn install
-Compiles and hot-reloads for development
-yarn serve
-Compiles and minifies for production
-yarn build
-Lints and fixes files
-yarn lint
+![A4552A30-675F-441D-8B6A-1D5696081446](https://github.com/Phumla-Nkosi/cleanup-portfolio/assets/133224303/75b88ed1-eeee-4757-900f-b27a393620dc)
+
+
+
 
 ⚠️ Vue CLI is in Maintenance Mode!
 
